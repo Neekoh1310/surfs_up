@@ -30,3 +30,13 @@ Based on the temperature trends for June and December, I have a few observations
 - The mean temperature differences between and June and December is only 2.6 degrees Fahrenheit, which on the surface, does not seem like a significant temperature difference between  the two months.
 - However, upon further investigation, the minimum temperature for December is 56 degrees F which is pretty significant when compared to the minimum temperature of June which is 63 degrees F. 
 - This minimum temperature difference is pretty significant because lower temperatures mean that we will have less clientele for both the ice cream sales and surf shop traffic. Colder temperatures have a negative correlation with business traffic in our business model.
+
+# Data Limitations and Suggestions
+
+The temperature trends only showed us a very limited metric on basing our decision on opening up our Surf and Ice Cream Shop combo in this region. In order for us to really dig deeper into our analysis, I suggest that we should run analysis on these factors:
+
+- Precipitation Trends
+- Tourist Traffic 
+- Amount of Surf and/or Ice Cream Shops Nearby
+
+These three factors can really affect the success of our business model. The amount of precipitation can really affect the amount of foot traffic we will get since people tend to head for cover during rainy season instead of buying ice cream or surfing. The amount of tourist cientelle we get will also affect the numbers of our business. Lastly, we want to make sure that we are not saturating the location with Ice Cream and Surf Shop businesses. Less competition means more profits for us!
